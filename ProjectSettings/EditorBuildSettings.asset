@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/New Scene.unity
+    guid: 34e036ebd8db0374a9cda31701026002
+  - enabled: 1
+    path: Assets/Scenes/Mafia.unity
+    guid: 43bdcd1a99cef0642a1c945375c0e982
   m_configObjects: {}
