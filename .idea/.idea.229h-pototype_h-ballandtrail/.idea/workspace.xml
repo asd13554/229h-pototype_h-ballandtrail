@@ -10,6 +10,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Goal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScoreManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Token.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -71,6 +73,7 @@
       <workItem from="1711117056832" duration="3727000" />
       <workItem from="1711127310893" duration="5669000" />
       <workItem from="1711159387897" duration="658000" />
+      <workItem from="1711164270923" duration="5297000" />
     </task>
     <servers />
   </component>
